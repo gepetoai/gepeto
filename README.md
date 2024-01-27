@@ -1,1 +1,2 @@
 # gepeto
+pip install gepeto
